@@ -22,18 +22,31 @@ La deuxième étape, c'est de remplir le formulaire d'approbation du projet (htt
 
 # Les des questions #
 -[Combien de pages devrait faire mon rapport?](https://github.com/gvial666/SupervisionProjetSupervise#q-combien-de-pages-devrait-faire-mon-rapport)
+
 -[Comment vous évaluez le projet?](https://github.com/gvial666/SupervisionProjetSupervise#q-comment-vous-%C3%A9valuez-le-projet)
+
 -[Ça va baisser ma moyenne cumulative si j'ai une mauvaise note?](https://github.com/gvial666/SupervisionProjetSupervise#q-%C3%A7a-va-baisser-ma-moyenne-cumulative-si-jai-une-mauvaise-note)
+
 -[Est-ce que je peux mettre du code/des captures d'écran?](https://github.com/gvial666/SupervisionProjetSupervise#q-est-ce-que-je-peux-mettre-du-codedes-captures-d%C3%A9cran)
+
 -[Mon boss ne veut pas que je mette de captures d'écran ni de code, c'est gênant?](https://github.com/gvial666/SupervisionProjetSupervise#q-mon-boss-ne-veut-pas-que-je-mette-de-captures-d%C3%A9cran-ni-de-code-cest-g%C3%AAnant)
+
 -[Comment je fais ABC ou XYZ?](https://github.com/gvial666/SupervisionProjetSupervise#q-comment-je-fais-abc-ou-xyz)
+
 -[Est-ce que je peux inclure des sources professionnelles comme références?](https://github.com/gvial666/SupervisionProjetSupervise#q-est-ce-que-je-peux-inclure-des-sources-professionnelles-comme-r%C3%A9f%C3%A9rences)
+
 -[C'est normal que ce soit long et difficile de trouver des références et de les intégrer dans mon rapport?](https://github.com/gvial666/SupervisionProjetSupervise#q-cest-normal-que-ce-soit-long-et-difficile-de-trouver-des-r%C3%A9f%C3%A9rences-et-de-les-int%C3%A9grer-dans-mon-rapport)
+
 -[Quelles sections/parties je devrais avoir dans mon rapport?](https://github.com/gvial666/SupervisionProjetSupervise#q-quelles-sectionsparties-je-devrais-avoir-dans-mon-rapport)
+
 -[J'aimerais remettre mon rapport à la même session que celle où j'effectue mon stage, c'est possible?](https://github.com/gvial666/SupervisionProjetSupervise#q-jaimerais-remettre-mon-rapport-%C3%A0-la-m%C3%AAme-session-que-celle-o%C3%B9-jeffectue-mon-stage-cest-possible)
+
 -[Quel est l'agenda de remise pour mon projet?](https://github.com/gvial666/SupervisionProjetSupervise#q-quel-est-lagenda-de-remise-pour-mon-projet)
+
 -[Est-ce que je peux remettre à la session suivant celle prévue initialement?](https://github.com/gvial666/SupervisionProjetSupervise#q-est-ce-que-je-peux-remettre-%C3%A0-la-session-suivant-celle-pr%C3%A9vue-initialement)
+
 -[Jusqu'à quel point je vais être poussé pour mon projet?](https://github.com/gvial666/SupervisionProjetSupervise#q-jusqu%C3%A0-quel-point-je-vais-%C3%AAtre-pouss%C3%A9-pour-mon-projet)
+
 -[Des derniers conseils à fournir?](https://github.com/gvial666/SupervisionProjetSupervise#q-des-derniers-conseils-%C3%A0-fournir)
 
 ## Q: Combien de pages devrait faire mon rapport? ##
