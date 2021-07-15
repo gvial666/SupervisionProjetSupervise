@@ -20,7 +20,7 @@ La deuxième étape, c'est de remplir le formulaire d'approbation du projet (htt
 
 **Attention** L'étudiant ne peut pas commencer son stage tant que le projet n'est pas approuvé.
 
-# Les des questions #
+# Liste des questions #
 -[Combien de pages devrait faire mon rapport?](https://github.com/gvial666/SupervisionProjetSupervise#q-combien-de-pages-devrait-faire-mon-rapport)
 
 -[Comment vous évaluez le projet?](https://github.com/gvial666/SupervisionProjetSupervise#q-comment-vous-%C3%A9valuez-le-projet)
