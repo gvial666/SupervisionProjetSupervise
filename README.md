@@ -73,10 +73,10 @@ Réponse: Oui, mais c'est difficile. Le défi c'est qu'il faut rédiger avant de
 ## Q: Quel est l'agenda de remise pour mon projet? ##
 Réponse: Ça dépend du superviseur, de sa charge de travail, et de la façon dont il supervise les étudiants. Ça dépend aussi de la facilité avec laquelle l'étudiant travaille et rédige son projet.
 
-- Je compte au minimum sur 4 à 5 remises. Chaque remise est commentée et entraîne souvent des changements que l'étudiant devra apporter avant de pouvoir continuer.
+- Je compte au minimum sur 4 à 5 remises, parfois plus, très rarement moins. Chaque remise est commentée et entraîne souvent des changements que l'étudiant devra apporter avant de pouvoir continuer.
 1. Un squelette du plan qui permet de déterminer ce que le rapport contiendra.
 2. Une première version de l'introduction.
-3. Les sections de revue de littérature, méthode, et intervention.
+3. Les sections de revue de littérature, méthode, et intervention (avec l'intro révisée).
 4. Une remise pré-finale pour des ajustements mineurs.
 5. La remise finale qui sera celle autorisée pour le dépôt.
 
