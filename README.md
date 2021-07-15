@@ -55,6 +55,8 @@ Réponse: Impossible de le dire. Cela dépend de la problématique, de l'état d
 ## Q: Comment vous évaluez le projet? ##
 Réponse: Lors du dépôt final, on nomine deux personnes, la Direction du programme en choisit une. Le superviseur et la personne nominée se rencontrent et procèdent à l'évaluation suite à une lecture indépendante du rapport. Les éléments évalués et les critères d'évaluation sont disponibles sur: https://www.hec.ca/etudiants/mon-programme/maitrises/documents/grille_evaluation_ps.pdf
 
+- L'étudiant peut suggérer des noms pour le jury au superviseur, soit de personnes à recommander, ou à ne pas recommander (ex. en cas de conflit dans le cadre d'un cours).
+
 ## Q: Ça va baisser ma moyenne cumulative si j'ai une mauvaise note? ##
 Réponse: cf. https://www.hec.ca/etudiants/mon-programme/maitrises/projets/projet-supervise.html
 
