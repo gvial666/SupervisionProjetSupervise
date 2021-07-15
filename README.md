@@ -86,7 +86,7 @@ Réponse: Ça dépend de beaucoup de choses (nature du projet etc.). Globalement
 
 **4. Intervention**: Cette section doit raconter l'intervention (nature, contributions, enjeux). **Attention:** Il ne s'agit pas d'un résumé linéaire des tâches effectuées, mais plutôt d'une explication des réalisations en fonction des éléments du mandat décrits dans l'intro. La rédaction va varier en fonction du projet (cela peut suivre les sections de la revue de littérature par exemple, ou les étapes d'une démarche de recherche-action etc.). 
 
-**5. Synthèse/Recommendations**: Ici, il s'agit d'un chapitre qui permet de faire une synthèse des éléments pertinents de l'intervention et de faire le contraste avec la littérature. On peut par exemple avoir confirmé ou appris, ou refuté des choses vues dans la littérature et discuter du "pourquoi" ces observations peuvent être faites. Parfois ceci est inclut directement dans le chapitre précédent, cela dépend de la façon dont on veut rédiger le rapport.
+**5. Synthèse/Recommendations**: Ici, il s'agit d'un chapitre qui permet de faire une synthèse des éléments pertinents de l'intervention et de faire le contraste avec la littérature. On peut par exemple avoir confirmé ou appris, ou refuté des choses vues dans la littérature et discuter du "pourquoi" ces observations peuvent être faites. Parfois ceci est inclus directement dans le chapitre précédent, cela dépend de la façon dont on veut rédiger le rapport.
 
 **6. Apprentissages**: Regard critique sur le mandat, l'intervention, et son impact. Mise en contexte avec les cours de la Msc. On ne veut pas discuter des choses de base telles que "j'ai appris à gérer mon temps et à utiliser PowerPoint" (j'exagère mais à peine).
 
