@@ -40,13 +40,28 @@ Réponse: Oui, mais de façon judicieuse et surtout parsimonieuse. On s'attend �
 ## Q: C'est normal que ce soit long et difficile de trouver des références et de les intégrer dans mon rapport? ##
 Réponse: Sans utiliser de logiciel de bibliographie et sans stratégie, oui. Sinon, non c'est relativement simple pour un projet. La première étape est de se documenter, par exemple ici: https://libguides.hec.ca/. Lors de l'écriture l'utilisation d'un outil comme Zotero, EndNote ou même la gestion des références dans Word, facilitent grandement le travail. La courbe d'apprentissage n'est pas énorme et la bibliothèque de l'École fournit de l'aide et des ateliers sur ce sujet.
 
-## Q: Quelles parties je devrais avoir dans mon rapport? ##
-Réponse: Ça dépend de beaucoup de choses (nature du projet etc.). Globalement, j'aime avoir les éléments suivants:
-1. Intro: mise en contexte générale, présentation de l'entreprise, du problème d'affaires, problématique, aperçu du mandat et contribution à la résolution de la problématique, annonce du plan.
-2. Revue de littérature: état de la connaissance sur le sujet de la problématique. Ici on veut articuler une présentation de la littérature et non pas faire un résumé d'un livre ou de quelques articles. À la fin de la revue de littérature, on doit avoir une idée claire des éléments pertinents pour l'intervention.
-3. Méthodologie: Dans un projet, cette partie varie souvent. Cela peut être très calqué sur une approche de recherche-action ou de design science par exemple, comme ça peut être plus générique.
-4. Intervention: Cette section doit raconter l'intervention (nature, contributions, enjeux). **Attention:** Il ne s'agit pas d'un résumé linéaire des tâches effectuées, mais plutôt d'une explication des réalisations en fonction des éléments du mandat décrits dans l'intro. La rédaction va varier en fonction du projet (cela peut suivre les sections de la revue de littérature par exemple, ou les étapes d'une démarche de recherche-action etc.). 
-5. Synthèse/Recommendations:
-6. Apprentissages:
-7. Conclusion
-8. Bibliographie: oui c'est important, et ça doit suivre le format requis par l'École. 
+## Q: Quelles sections/parties je devrais avoir dans mon rapport? ##
+Réponse: Ça dépend de beaucoup de choses (nature du projet etc.). Globalement, j'aime avoir les éléments suivants (à noter que ça ne veut pas dire que ce sont nécessairement des chapitres même si c'est souvent le cas):
+
+**1. Intro**: mise en contexte générale, présentation de l'entreprise, du problème d'affaires, problématique, aperçu du mandat et contribution à la résolution de la problématique, annonce du plan.
+
+**2. Revue de littérature**: état de la connaissance sur le sujet de la problématique. Ici on veut articuler une présentation de la littérature et non pas faire un résumé d'un livre ou de quelques articles. À la fin de la revue de littérature, on doit avoir une idée claire des éléments pertinents pour l'intervention.
+
+**3. Méthodologie**: Dans un projet, cette partie varie souvent. Cela peut être très calqué sur une approche de recherche-action ou de design science par exemple, comme ça peut être plus générique.
+
+**4. Intervention**: Cette section doit raconter l'intervention (nature, contributions, enjeux). **Attention:** Il ne s'agit pas d'un résumé linéaire des tâches effectuées, mais plutôt d'une explication des réalisations en fonction des éléments du mandat décrits dans l'intro. La rédaction va varier en fonction du projet (cela peut suivre les sections de la revue de littérature par exemple, ou les étapes d'une démarche de recherche-action etc.). 
+
+**5. Synthèse/Recommendations**: Ici, il s'agit d'un chapitre qui permet de faire une synthèse des éléments pertinents de l'intervention et de faire le contraste avec la littérature. On peut par exemple avoir confirmé ou appris, ou refuté des choses vues dans la littérature et discuter du "pourquoi" ces observations peuvent être faites. Parfois ceci est inclut directement dans le chapitre précédent, cela dépend de la façon dont on veut rédiger le rapport.
+
+**6. Apprentissages**: Regard critique sur le mandat, l'intervention, et son impact. Mise en contexte avec les cours de la Msc. On ne veut pas discuter des choses de base telles que "j'ai appris à gérer mon temps et à utiliser PowerPoint" (j'exagère mais à peine).
+
+**7. Conclusion**
+
+**8. Bibliographie**: oui c'est important, et ça doit suivre le format requis par l'École. 
+
+Rien de ceci n'est coulé dans le béton mais ça représente les "blocs" que l'on retrouve le plus fréquemment. Ceci étant, si votre projet est différent, on peut très bien opter pour des structures alternatives plus efficaces.
+
+## Q: J'aimerais remettre mon rapport à la même session que celle où j'effectue mon stage, c'est possible? ##
+Réponse: Oui, mais c'est difficile. Le défi c'est qu'il faut rédiger avant de connaître la fin de l'histoire du stage, ce qui demande d'être plus proactif et surtout, prêt à faire des changements. 
+
+**Dans tous les cas, il revient au superviseur de déterminer si l'étudiant est prêt à faire son dépôt, sans avoir à tenir compte des contraintes de cours, de statut d'immigration, de travail etc. Il est de la responsabilité de l'étudiant de gérer ces éléments afin d'assurer qu'ils n'entraveront pas son travail pour le projet supervisé (stage, rédaction, évaluation etc.). cf. https://www.hec.ca/etudiants/mon-programme/maitrises/projets/projet-supervise.html**
