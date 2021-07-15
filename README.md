@@ -111,7 +111,7 @@ Réponse: Ça dépend du superviseur, de sa charge de travail, et de la façon d
 4. Une remise pré-finale pour des ajustements mineurs.
 5. La remise finale qui sera celle autorisée pour le dépôt.
 
-Dans cette optique, commencer la rédaction d'un projet un mois avant la date finale de remise pour une session est très difficile, d'autant plus que l'étudiant doit pouvoir laisser suffisamment de temps pour les corrections intermédiaires et les relectures par le superviseur. Il est plus fréquent pour les étudiants de faire leur stage lors d'une session (ex. été) et de rédiger à l'automne. Par contre, si l'étudiant prévoit prendre plusieurs cours à l'automne, la rédaction s'avère difficile. 
+Dans cette optique, commencer la rédaction d'un projet un mois avant la date finale de remise pour une session est très difficile, d'autant plus que l'étudiant doit pouvoir laisser suffisamment de temps pour les corrections intermédiaires et les relectures par le superviseur. Il est plus fréquent pour les étudiants de faire leur stage lors d'une session (ex. été) et de rédiger à la session suivante. Par contre, si l'étudiant prévoit prendre plusieurs cours à l'automne, la rédaction s'avère difficile. 
 
 **Dans tous les cas, le pire scénario est celui où l'étudiant met le superviseur devant le fait accompli en lui remettant une première version du rapport tard dans la session, sans avoir convenu d'un calendrier approximatif de remise avec ce dernier, et en espérant pouvoir dans les semaines qui viennent procéder au dépôt.**
 
