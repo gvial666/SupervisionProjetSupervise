@@ -20,6 +20,22 @@ La deuxième étape, c'est de remplir le formulaire d'approbation du projet (htt
 
 **Attention** L'étudiant ne peut pas commencer son stage tant que le projet n'est pas approuvé.
 
+# Les des questions #
+-[Combien de pages devrait faire mon rapport?](https://github.com/gvial666/SupervisionProjetSupervise#q-combien-de-pages-devrait-faire-mon-rapport)
+-[Comment vous évaluez le projet?](https://github.com/gvial666/SupervisionProjetSupervise#q-comment-vous-%C3%A9valuez-le-projet)
+-[Ça va baisser ma moyenne cumulative si j'ai une mauvaise note?](https://github.com/gvial666/SupervisionProjetSupervise#q-%C3%A7a-va-baisser-ma-moyenne-cumulative-si-jai-une-mauvaise-note)
+-[Est-ce que je peux mettre du code/des captures d'écran?](https://github.com/gvial666/SupervisionProjetSupervise#q-est-ce-que-je-peux-mettre-du-codedes-captures-d%C3%A9cran)
+-[Mon boss ne veut pas que je mette de captures d'écran ni de code, c'est gênant?](https://github.com/gvial666/SupervisionProjetSupervise#q-mon-boss-ne-veut-pas-que-je-mette-de-captures-d%C3%A9cran-ni-de-code-cest-g%C3%AAnant)
+-[Comment je fais ABC ou XYZ?](https://github.com/gvial666/SupervisionProjetSupervise#q-comment-je-fais-abc-ou-xyz)
+-[Est-ce que je peux inclure des sources professionnelles comme références?](https://github.com/gvial666/SupervisionProjetSupervise#q-est-ce-que-je-peux-inclure-des-sources-professionnelles-comme-r%C3%A9f%C3%A9rences)
+-[C'est normal que ce soit long et difficile de trouver des références et de les intégrer dans mon rapport?](https://github.com/gvial666/SupervisionProjetSupervise#q-cest-normal-que-ce-soit-long-et-difficile-de-trouver-des-r%C3%A9f%C3%A9rences-et-de-les-int%C3%A9grer-dans-mon-rapport)
+-[Quelles sections/parties je devrais avoir dans mon rapport?](https://github.com/gvial666/SupervisionProjetSupervise#q-quelles-sectionsparties-je-devrais-avoir-dans-mon-rapport)
+-[J'aimerais remettre mon rapport à la même session que celle où j'effectue mon stage, c'est possible?](https://github.com/gvial666/SupervisionProjetSupervise#q-jaimerais-remettre-mon-rapport-%C3%A0-la-m%C3%AAme-session-que-celle-o%C3%B9-jeffectue-mon-stage-cest-possible)
+-[Quel est l'agenda de remise pour mon projet?](https://github.com/gvial666/SupervisionProjetSupervise#q-quel-est-lagenda-de-remise-pour-mon-projet)
+-[Est-ce que je peux remettre à la session suivant celle prévue initialement?](https://github.com/gvial666/SupervisionProjetSupervise#q-est-ce-que-je-peux-remettre-%C3%A0-la-session-suivant-celle-pr%C3%A9vue-initialement)
+-[Jusqu'à quel point je vais être poussé pour mon projet?](https://github.com/gvial666/SupervisionProjetSupervise#q-jusqu%C3%A0-quel-point-je-vais-%C3%AAtre-pouss%C3%A9-pour-mon-projet)
+-[Des derniers conseils à fournir?](https://github.com/gvial666/SupervisionProjetSupervise#q-des-derniers-conseils-%C3%A0-fournir)
+
 ## Q: Combien de pages devrait faire mon rapport? ##
 Réponse: Impossible de le dire. Cela dépend de la problématique, de l'état des connaissances sur le sujet, de la portée de l'intervention etc. En moyenne, la plupart des rapports vont faire entre 50 et 80 pages (sans compter les pages de présentation/table des matières et annexes).
 
@@ -84,7 +100,7 @@ Dans cette optique, commencer la rédaction d'un projet un mois avant la date fi
 
 **Dans tous les cas, le pire scénario est celui où l'étudiant met le superviseur devant le fait accompli en lui remettant une première version du rapport tard dans la session, sans avoir convenu d'un calendrier approximatif de remise avec ce dernier, et en espérant pouvoir dans les semaines qui viennent procéder au dépôt.**
 
-## Q: Est-ce que je peux remettre à la session suivant celle prévue initialement?##
+## Q: Est-ce que je peux remettre à la session suivant celle prévue initialement? ##
 Réponse: Ça dépend. Le mieux est de vérifier avec la Direction de la Msc (msc@hec.ca). Par contre, tout retard entraîne une réinscription au projet et donc des frais de scolarité, même si les cours sont terminés.
 
 ## Q: Jusqu'à quel point je vais être poussé pour mon projet? ##
