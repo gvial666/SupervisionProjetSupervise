@@ -4,6 +4,9 @@ Informations relatives à la supervision de projet à la MSc
 Gregory Vial, Département des Technologies de l'information
 (gregory.vial@hec.ca)
 
+##### Table of Contents  
+[Headers](#headers)
+
 # Note importante #
 
 L’objectif de ce document est de répondre aux principales questions souvent posées par les étudiants en vue ou en cours de supervision. Il ne s’agit pas d’un document officiel de l’École, mais plus d’un ensemble de recommandations pour permettre à l’étudiant de s’assurer de la réussite de son projet.
